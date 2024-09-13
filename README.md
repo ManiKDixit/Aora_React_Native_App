@@ -1,5 +1,1 @@
-![Screenshot_20240914_004735_Expo Go](https://github.com/user-attachments/assets/31d950bc-3b47-4a1a-8469-aee7522adf82)
-![Screenshot_20240914_004730_Expo Go](https://github.com/user-attachments/assets/5103a9b3-46b5-4728-8b97-97bf85d79148)
-![Screenshot_20240914_004718_Expo Go](https://github.com/user-attachments/assets/b49a3498-cf93-4d4f-83eb-49e401efd858)
-![Screenshot_20240914_004742_Expo Go](https://github.com/user-attachments/assets/d3e4e455-1701-4b62-a99b-8f90e6cf05b5)
-![Screenshot_20240914_004901_Expo Go](https://github.com/user-attachments/assets/99c7ea0c-ff62-4064-836f-1740e2fe881b)
+
