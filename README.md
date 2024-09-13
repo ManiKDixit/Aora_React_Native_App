@@ -1,2 +1,2 @@
-<img src="assets/ss/Login.jpg" alt="Project Logo" width="300" />
+<img src="assets/ss/LogIn.jpg" alt="Login Screen" width="300" />
 
